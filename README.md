@@ -29,6 +29,7 @@
   1. Make your USB installer with [**this guide**](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
   2. Clone the repository and paste "BOOT" and "OC" directories into your's pendrive "EFI" folder
   3. Download [**GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select **Generate SMBIOS**, as the model select **MacPro7,1**. 
+
 **DON'T USE SMBIOS FROM THIS CONFIG, IT NEEDS TO BE UNIQUE FOR EACH INSTALLATION**
   4. Boot it
 
