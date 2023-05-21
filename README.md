@@ -2,7 +2,7 @@
 
 **OpenCore : 0.9.2**
 
-**macOS :Ventura 13.4**
+**macOS : Ventura 13.4**
 
 **SMBIOS : MacPro7,1**
 
