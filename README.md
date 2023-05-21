@@ -6,6 +6,11 @@
 
 **SMBIOS : MacPro7,1**
 
+:warning: **DISCLAIMER:**
+THIS IS NOT A GUIDE!
+<br/>
+It's just my complete EFI for my hardware based on my experiments, please refer to [Dortania](https://dortania.github.io/getting-started/) before doing anything. I am not responsible for any damage. This OpenCore configuration is optimized for my specific hardware, so please use it only as a reference or if you happen to have the same or similar hardware.
+
 ### Specification
 
 | **Component**    | **Model**                  |
@@ -30,7 +35,7 @@
   2. Clone the repository and paste "BOOT" and "OC" directories into your's pendrive "EFI" folder
   3. Download [**GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select **Generate SMBIOS**, as the model select **MacPro7,1**. 
 
-**DON'T USE SMBIOS FROM THIS CONFIG, IT NEEDS TO BE UNIQUE FOR EACH INSTALLATION**
+**DON'T USE SMBIOS FROM THIS CONFIG, IT MUST BE UNIQUE FOR EACH INSTALLATION**
   4. Boot it
 
 ## :white_check_mark: Working:
